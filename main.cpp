@@ -793,7 +793,7 @@ private:
     }
 };
 
-// -------------------- MAIN --------------------
+//---------------- MAIN ----------------
 int main() {
     string input = R"(
         // Sample program with various constructs
